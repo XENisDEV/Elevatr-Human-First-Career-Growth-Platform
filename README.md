@@ -1,12 +1,12 @@
 # 🚀 Elevatr – Human First Career Growth Platform.  
 
-🎭 *The Student Struggle* 
+🎭 *The Student Struggle* : 
 Lost at 2 AM with doubts, resumes stuffed with fluff, mentors who vanish after one call... sound familiar?  
 
-⚡ *The Vulnerability*
+⚡ *The Vulnerability* : 
 Students chase dreams on shaky ground. Recruiters can’t trust. Guidance feels broken.  
 
-🔥 *The Twist*  
+🔥 *The Twist* :   
 What if careers had a compass (AI), a North Star (mentors), and a heartbeat (authentic progress)?  
 
 🎯 **The Answer: Elevatr**  
@@ -16,7 +16,7 @@ What if careers had a compass (AI), a North Star (mentors), and a heartbeat (aut
 - Weekly Follow-Ups → mentorship that continues, not disappears.  
 - Growth Timeline → your career, visualized like a fitness chart.  
 
-🌟 *Why It Hits*  
+🌟 *Why It Hits* :   
 Because Elevatr isn’t another tool. It’s a story.  
 Of students finding guidance, recruiters finding trust, and mentorship finding soul.  
 
